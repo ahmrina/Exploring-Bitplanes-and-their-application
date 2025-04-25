@@ -1,6 +1,6 @@
 # Exploring-Bitplanes-and-their-application
 ---
-Bitplane decomposition is a method used in image processing where we take an image and break it down into pieces i.e., bit planes for further analysis or for advantages that they offer such as storage reduction, enhancement etc. 
+##### Bitplane decomposition is a method used in image processing where we take an image and break it down into pieces i.e., bit planes for further analysis or for advantages that they offer such as storage reduction, enhancement etc. 
 ---
 This notebook explores some of the applications:
 - Noise Removal in OCT Image
